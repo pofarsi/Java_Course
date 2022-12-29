@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="385ec642-4691-45c5-9896-7c4ee8377b5b" name="Changes" comment="bunch of update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JaWKtPwTxgs3FJgaqBVYtvgGdh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/karino/Desktop/Java Course"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture10" />
+      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture11" />
+      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture09" />
+      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture08" />
+      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.lecture08.hw8.pharmacy_management_system.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture04.hw4.simple_banking_with_oop.Main" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture04.hw4.simple_banking_with_oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture08.hw8.pharmacy_management_system.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture08.hw8.pharmacy_management_system.Main" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture08.hw8.pharmacy_management_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lecture08.hw8.pharmacy_management_system.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="385ec642-4691-45c5-9896-7c4ee8377b5b" name="Changes" comment="" />
+      <created>1672316672111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672316672111</updated>
+      <workItem from="1672316673484" duration="1510000" />
+      <workItem from="1672318222019" duration="1819000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1672317381783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672317381783</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bunch of update">
+      <created>1672317437903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672317437903</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bunch of update">
+      <created>1672319458094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672319458094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="bunch of update" />
+    <option name="LAST_COMMIT_MESSAGE" value="bunch of update" />
+  </component>
+</project>

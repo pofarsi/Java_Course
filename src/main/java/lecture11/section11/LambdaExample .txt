@@ -1,0 +1,12 @@
+In this example, the applyFunction method takes a single input of type T and a Function object as arguments.
+The Function object is a functional interface, which means it has a single method that must be implemented
+(in this case, the apply method). The lambda expression that is passed to the applyFunction method must conform
+to the Function interface, which means it must take an input of type T and return a value of type R.
+
+The applyFunction method then calls the apply method on the Function object and passes in the input value.
+This causes the lambda expression to be executed, and the result is returned to the caller.
+
+In the main method, we are calling the applyFunction method and passing in a lambda expression that takes
+a String as input and returns the length of the String as an int. This lambda expression is then passed to
+the applyFunction method and is stored in the func parameter. When the apply method is called on the func object,
+the lambda expression is executed and the length of the String is returned.

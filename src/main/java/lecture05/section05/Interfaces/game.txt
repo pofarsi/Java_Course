@@ -1,0 +1,8 @@
+Create a simple interface ISaveable, that interface allows an object to be saved to some sort of storage medium.
+The exact type of medium is not known to the interface. The interface will just specify two methods, one to return
+an ArrayList of values to be saved and the other to populate the object's fields from an ArrayList (parameter).
+Create a few sample classes that implement your Saveable interface.
+Override the toString() method for each of your classes so that they can be easily printed to enable
+the program to be tested easier.
+In Main, write a method that takes an object that implements the interface as a parameter and
+"saves" the values e.g. calls the method defined in the interface.

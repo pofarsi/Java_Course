@@ -1,0 +1,39 @@
+We have class name Animal that have some instance.
+Now we want to use those instance fo creat class Dog since class Dog has some instance of class Animal
+We can just use them and inherit those instances with key work extend and use the constructor of class Animal.
+Super key word means call the constructor of class that we inherit from in this case Animal and initializing.
+We can also add more instance and methods that exclusive to class Dog like "legs".
+We can have methods in parent class like "move" since it is public method we can use it in the class Dog,
+and some methods that exclusive to class Dog.
+When we have method that is in parent class we can use it in child class, but we also can override the method for
+example if we do not override method eat in Animal class we get printed "Animal eating" but when we override it
+and because method in Dog class in exclusive to Dog we make it private, and we get the override method printed with
+key work "@Override".
+The method run in dog class can be use in override method and super key word "super.move" refer to super class of
+class Dog and that is Animal class, so it is going to print the ".move()" method from Animal class.
+We have method name "Nourish" but all animals are not eating same food of drink.
+Point* we do not need to put super key word because if we put super if we override th class we do not get back the
+override method.
+super key word is used to call parent class and is used with method overriding.
+this key word is used to call current class members and used with constructor and setters, and optionally in getters.
+We can not use super and this together except in static areas.
+this() call used to call constructor from another overloaded constructor in same class and can be only used in
+constructor and must be first statement in constructor. it is used with constructor chaining it means when one
+constructor calls another constructor, and helps to reduce duplicate code.
+The only way calling parent constructor is by using super() call without any parameter and must be first statement
+in each constructor.
+this() and super() can not be used together.
+method overloading is used when we want to use the same name of method with different parameters.
+we can overload static and instance methods.
+method overriding means finding method in child class that already exist in parent class with same signature like
+same name or same argument. we can not override static methods only instance methods. method overriding should
+have same name and same argument return type can ber subclass of the return type in the parent class it can not have
+lower access modifier.
+Only inherited methods can be overridden it means it can override in child class and constructor and private methods
+and final methods can not ber overridden.
+A subclass can use super.methodName() to call the superclass version of overridden methods.
+static methods can not access instance methods and instance variables directly. we can use this in static.
+we can call static methods as Classname.methodName(); or methodName();
+instance methods belong to an instance of class and to use in it should be "new".
+instance methods can access instance methods and instance variable and static methods and static variable directly.
+composition = has a relationship.
