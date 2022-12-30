@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="385ec642-4691-45c5-9896-7c4ee8377b5b" name="Changes" comment="bunch of update" />
+    <list default="true" id="622e1398-7e30-4736-848d-fcd6f45a7cbf" name="Changes" comment="push to GitHub" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,99 +13,44 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JaWKtPwTxgs3FJgaqBVYtvgGdh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2JadjeIGpL9TiDUYyNVgZynz0N8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/karino/Desktop/Java Course"
+    "last_opened_file_path": "C:/Users/karino/Desktop/java/java_course"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture10" />
-      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture11" />
-      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture09" />
-      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture08" />
-      <recent name="C:\Users\karino\Desktop\New folder (5)\java_course\src\main\java\lecture07" />
+      <recent name="C:\Users\karino\Desktop\java\java_course" />
     </key>
-  </component>
-  <component name="RunManager" selected="Application.lecture08.hw8.pharmacy_management_system.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture04.hw4.simple_banking_with_oop.Main" />
-      <module name="java_course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture04.hw4.simple_banking_with_oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture08.hw8.pharmacy_management_system.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture08.hw8.pharmacy_management_system.Main" />
-      <module name="java_course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture08.hw8.pharmacy_management_system.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.lecture08.hw8.pharmacy_management_system.Main" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="385ec642-4691-45c5-9896-7c4ee8377b5b" name="Changes" comment="" />
-      <created>1672316672111</created>
+      <changelist id="622e1398-7e30-4736-848d-fcd6f45a7cbf" name="Changes" comment="" />
+      <created>1672320263966</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672316672111</updated>
-      <workItem from="1672316673484" duration="1510000" />
-      <workItem from="1672318222019" duration="1819000" />
+      <updated>1672320263966</updated>
+      <workItem from="1672320265359" duration="186000" />
     </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <created>1672317381783</created>
+    <task id="LOCAL-00001" summary="push to GitHub">
+      <created>1672320361921</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1672317381783</updated>
+      <updated>1672320361921</updated>
     </task>
-    <task id="LOCAL-00002" summary="bunch of update">
-      <created>1672317437903</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1672317437903</updated>
-    </task>
-    <task id="LOCAL-00003" summary="bunch of update">
-      <created>1672319458094</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1672319458094</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,8 +68,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
-    <MESSAGE value="bunch of update" />
-    <option name="LAST_COMMIT_MESSAGE" value="bunch of update" />
+    <MESSAGE value="push to GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="push to GitHub" />
   </component>
 </project>
