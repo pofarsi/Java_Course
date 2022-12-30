@@ -127,3 +127,20 @@ SELECT * FROM orders WHERE customer_id = 1;
 -- We insert some data into the customers and orders tables using the INSERT statement.
 -- Then, we use an INNER JOIN to select all orders and join them to the corresponding customer data.
 -- This allows us to retrieve data from both tables in a single
+
+
+-- We want to create an index on the name column to speed up queries that filter or sort data based on that column.
+-- Here is the SQL statement we would use to create the index
+
+CREATE INDEX idx_customers_name ON customers (name);
+-- This creates an index called idx_customers_name on the name column of the customers table.
+-- Now, when we run queries that filter or sort data based on the name column,
+-- the database will be able to use the index to quickly locate and retrieve the relevant rows,
+-- rather than having to scan the entire table.
+--
+-- Here is an example query that demonstrates how the index can be used to speed up a query:
+
+SELECT * FROM customers WHERE name = 'John';
+
+-- Without the index, the database would have to scan the entire customers table to find the rows with a
+

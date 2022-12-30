@@ -4,6 +4,11 @@ create table country
     name varchar(30)     not null unique
 );
 
+-- The CONSTRAINT clause defines a foreign key constraint called fk_country_id on the country_id column,
+-- which means that the values in this column must be present in the id column of the country table.
+-- This establishes a one-to-many relationship between the city and country tables
+-- (i.e., each country can have many cities).
+
 select *
 from country;
 
