@@ -1,6 +1,6 @@
 package lecture04.section04.abstract_class.abstract_ex;
 
-// Code from filename: Main.java
+// Code from filename: Solution.java
 // abstract class
 abstract class Main {
     public String fname = "John";
@@ -15,7 +15,7 @@ class Student extends Main {
         System.out.println("Studying all day long");
     }
 }
-// End code from filename: Main.java
+// End code from filename: Solution.java
 
 // Code from filename: Second.java
 class Second {
