@@ -1,13 +1,14 @@
 package lecture08.section08.GenericsDataStracture;
 
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
 // ? unknown type. Unbranded Wildcards.
 public class UnbrandedWildcards {
     public static void main(String[] args) {
 
-        List<Object> list = Arrays.asList(1, 2, 3, 4);
+        List<Object> list = Arrays.asList(1, 2, 3, 4, new Date());
         List<String> list2 = Arrays.asList("5", "6");
         print(list);
         print(list2);

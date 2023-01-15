@@ -18,10 +18,12 @@ public class GenericsAndMethods {
 
     }
 
-    // Method below takes array of strings. because we want to use print for another data type we use generics.
-//    static void print(String[] array)
-    // we can return generics
-//    static <T> T print(String[] array)
+    /* Method below takes array of strings. because we want to use print for another data type we use generics.
+       static void print(String[] array)
+       we can return generics
+       static <T> T print(String[] array)
+       we can use void instead of T in type */
+
     static <T> T print(T[] array) {
 //        for (String e : array)
         for (T e : array) {
